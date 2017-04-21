@@ -1,0 +1,9 @@
+# My very secret file
+secret
+
+# Virtualenv
+env
+
+# Jupyter Checkpoint
+.ipynb_checkpoints
+
