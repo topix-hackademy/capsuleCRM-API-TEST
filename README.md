@@ -16,6 +16,9 @@ You can create a personal TOKEN in your **Preferences** under the voice **API Au
 
 You need to copy the file **secret.example** with a new name **secret**. Change inside this file the voice **TOKEN** with your token.
 
+    cp secret.example secret
+    vim secret
+
 ## Start
 
 After the installation run on your terminal:
